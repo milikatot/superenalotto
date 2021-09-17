@@ -1,9 +1,9 @@
 # Superenalotto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
-
 Mini-sito per estrarre numeri causali. Utilizzo di Ngrx.
 
-## View Demo
+Questo progetto è stato generato con [Angular CLI](https://github.com/angular/angular-cli) versione 11.2.0.
+
+## Guarda la Demo
 
 Demo [Superenalotto](https://superenalotto.michelecorazza.name)
